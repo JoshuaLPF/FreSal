@@ -8,11 +8,12 @@
 - In this project, we proposed the deep Fourier-embedded network, namely FreqSal, a purely Fourier-based model aimed at solving the high-resolution bimodal inputs and feature fusion while minimizing memory consumption of GPU, outperforming existing state-of-the-art bimodal salient object detection (SOD) models on four RGB-T, five RGB-D, and one RGB-D-T SOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of SOD tasks.**
 - Please cite our paper if you find it useful for your research.
 ```
-@article{lyu2024deep,
+@article{lyu2025deep,
   title={Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection},
   author={Lyu, Pengfei and Yu, Xiaosheng and Yeung, Pak-Hei and Wu, Chengdong and Rajapakse, Jagath C},
-  journal={arXiv preprint arXiv:2411.18409},
-  year={2024}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 ## Requirements
